@@ -1,0 +1,21 @@
+{
+  "name": "DoroziApps",
+  "short_name": "DoroziApps",
+  "description": "Expert Mobile & Web Development Studio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08060e",
+  "theme_color": "#08060e",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
